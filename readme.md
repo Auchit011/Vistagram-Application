@@ -1,11 +1,3 @@
-## Note from the Developer
-
-This project was built **in less than a day** from scratch due to multiple assignments from different companies.  
-Kindly consider the time constraints when reviewing and please give me a chance to interview.
-
----
-
-
 # Vistagram - Social Feed with Location Filtering
 
 ## 📌 Overview
@@ -161,4 +153,4 @@ case "location":
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by Harmeet Singh
+Built with ❤️ by Auchitya Chauhan
