@@ -14,7 +14,7 @@ connectDB();
 
 // middlewares
 const corsOptions = {
-  origin: ["http://localhost:5173", "https://headout-assignment-delta.vercel.app"], // allow local and production frontend
+  origin: ["http://localhost:5173", "https://headout-assignment-delta.vercel.app", "https://vistagram-application.vercel.app"], // allow local and new production frontend
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "Authorization"],
   credentials: true, // if you want to allow cookies/auth
