@@ -1,4 +1,4 @@
-# Vistagram - Social Feed with Location Filtering
+# Vistagram - Social Media with future location filtering
 
 ## 📌 Overview
 
