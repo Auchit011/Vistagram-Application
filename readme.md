@@ -154,3 +154,4 @@ case "location":
 ## 🧑‍💻 Author
 
 Built with ❤️ by Auchitya Chauhan
+
