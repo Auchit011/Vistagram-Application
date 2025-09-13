@@ -122,7 +122,9 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
             {post.location && (
               <div className="flex items-center gap-1 text-xs text-gray-400">
                 <MapPin size={12} />
-                {post.location || "Unknown location"}
+                {typeof post.location === "string"
+                  ? post.location
+                  : post.location.name || JSON.stringify(post.location) || "Unknown location"}
               </div>
             )}
           </div>
